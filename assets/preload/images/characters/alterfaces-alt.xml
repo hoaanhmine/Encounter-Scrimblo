@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="alterfaces-alt.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="faceAngry0000" x="0" y="0" width="491" height="693"/>
+	<SubTexture name="faceAngry0001" x="0" y="0" width="491" height="693"/>
+	<SubTexture name="faceAngry0002" x="491" y="0" width="491" height="693"/>
+	<SubTexture name="faceAngry0003" x="491" y="0" width="491" height="693"/>
+	<SubTexture name="faceAngry-Alt0000" x="982" y="0" width="491" height="693"/>
+	<SubTexture name="faceAngry-Alt0001" x="982" y="0" width="491" height="693"/>
+	<SubTexture name="faceAngry-Alt0002" x="1473" y="0" width="491" height="693"/>
+	<SubTexture name="faceAngry-Alt0003" x="1473" y="0" width="491" height="693"/>
+	<SubTexture name="faceHappy0000" x="1964" y="0" width="491" height="693"/>
+	<SubTexture name="faceHappy0001" x="1964" y="0" width="491" height="693"/>
+	<SubTexture name="faceHappy0002" x="2455" y="0" width="491" height="693"/>
+	<SubTexture name="faceHappy0003" x="2455" y="0" width="491" height="693"/>
+	<SubTexture name="faceThanks0000" x="2946" y="0" width="491" height="693"/>
+	<SubTexture name="faceThanks0001" x="2946" y="0" width="491" height="693"/>
+	<SubTexture name="faceThanks0002" x="3437" y="0" width="491" height="693"/>
+	<SubTexture name="faceThanks0003" x="3437" y="0" width="491" height="693"/>
+	<SubTexture name="noreaction0000" x="0" y="693" width="491" height="693"/>
+	<SubTexture name="noreaction0001" x="0" y="693" width="491" height="693"/>
+	<SubTexture name="noreaction0002" x="491" y="693" width="491" height="693"/>
+	<SubTexture name="noreaction0003" x="491" y="693" width="491" height="693"/>
+</TextureAtlas>

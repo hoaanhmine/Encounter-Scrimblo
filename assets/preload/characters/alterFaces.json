@@ -1,0 +1,113 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"name": "idle-alt0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idleWhat",
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"name": "idleWhat0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idleSmile",
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"name": "idleLOL0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"name": "idle0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"fps": 24,
+			"anim": "idleAsk2",
+			"loop": true,
+			"name": "idleAskMounthOpen"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"fps": 24,
+			"anim": "idleAsk",
+			"loop": true,
+			"name": "idleAsk"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/alterFaces",
+	"position": [
+		200,
+		210
+	],
+	"healthicon": "alternate",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		270,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

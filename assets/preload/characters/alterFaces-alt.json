@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "noreaction"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": true,
+			"name": "faceAngry"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"fps": 24,
+			"anim": "idleAngry2",
+			"loop": true,
+			"name": "faceAngry-Alt"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"fps": 24,
+			"anim": "idleThanks",
+			"loop": true,
+			"name": "faceThanks"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"fps": 24,
+			"anim": "idleHappy",
+			"loop": true,
+			"name": "faceHappy"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/alterFaces-alt",
+	"position": [
+		200,
+		210
+	],
+	"healthicon": "alternate",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		270,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

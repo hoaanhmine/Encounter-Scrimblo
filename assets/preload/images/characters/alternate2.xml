@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="alternate2.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle alternate confuso0000" x="0" y="0" width="439" height="669" frameX="0" frameY="-13" frameWidth="439" frameHeight="683"/>
+	<SubTexture name="idle alternate confuso0001" x="0" y="0" width="439" height="669" frameX="0" frameY="-13" frameWidth="439" frameHeight="683"/>
+	<SubTexture name="idle alternate confuso0002" x="439" y="0" width="426" height="679" frameX="-6" frameY="-3" frameWidth="439" frameHeight="683"/>
+	<SubTexture name="idle alternate confuso0003" x="439" y="0" width="426" height="679" frameX="-6" frameY="-3" frameWidth="439" frameHeight="683"/>
+	<SubTexture name="idle alternate confuso0004" x="865" y="0" width="418" height="682" frameX="-10" frameY="0" frameWidth="439" frameHeight="683"/>
+	<SubTexture name="idle alternate confuso0005" x="865" y="0" width="418" height="682" frameX="-10" frameY="0" frameWidth="439" frameHeight="683"/>
+	<SubTexture name="idle alternate confuso0006" x="1283" y="0" width="418" height="682" frameX="-9" frameY="-1" frameWidth="439" frameHeight="683"/>
+	<SubTexture name="idle alternate confuso0007" x="1283" y="0" width="418" height="682" frameX="-9" frameY="-1" frameWidth="439" frameHeight="683"/>
+	<SubTexture name="idle alternate confuso0008" x="0" y="682" width="418" height="680" frameX="-10" frameY="-2" frameWidth="439" frameHeight="683"/>
+	<SubTexture name="idle alternate confuso0009" x="0" y="682" width="418" height="680" frameX="-10" frameY="-2" frameWidth="439" frameHeight="683"/>
+	<SubTexture name="idle alternate confuso0010" x="1283" y="0" width="418" height="682" frameX="-9" frameY="-1" frameWidth="439" frameHeight="683"/>
+	<SubTexture name="idle alternate confuso0011" x="1283" y="0" width="418" height="682" frameX="-9" frameY="-1" frameWidth="439" frameHeight="683"/>
+	<SubTexture name="idle alternate confuso0012" x="0" y="682" width="418" height="680" frameX="-10" frameY="-2" frameWidth="439" frameHeight="683"/>
+	<SubTexture name="idle alternate confuso0013" x="0" y="682" width="418" height="680" frameX="-10" frameY="-2" frameWidth="439" frameHeight="683"/>
+	<SubTexture name="idle alternate confuso0014" x="418" y="682" width="423" height="676" frameX="-7" frameY="-7" frameWidth="439" frameHeight="683"/>
+	<SubTexture name="idle alternate confuso cetas0000" x="841" y="682" width="418" height="682" frameX="0" frameY="0" frameWidth="419" frameHeight="682"/>
+	<SubTexture name="idle alternate confuso cetas0001" x="841" y="682" width="418" height="682" frameX="0" frameY="0" frameWidth="419" frameHeight="682"/>
+	<SubTexture name="idle alternate confuso cetas0002" x="1259" y="682" width="418" height="680" frameX="-1" frameY="-1" frameWidth="419" frameHeight="682"/>
+	<SubTexture name="idle alternate confuso cetas0003" x="1259" y="682" width="418" height="680" frameX="-1" frameY="-1" frameWidth="419" frameHeight="682"/>
+	<SubTexture name="idle alternate confuso cetas0004" x="0" y="1364" width="418" height="682" frameX="0" frameY="0" frameWidth="419" frameHeight="682"/>
+	<SubTexture name="idle alternate confuso cetas0005" x="0" y="1364" width="418" height="682" frameX="0" frameY="0" frameWidth="419" frameHeight="682"/>
+	<SubTexture name="idle alternate confuso cetas0006" x="0" y="682" width="418" height="680" frameX="-1" frameY="-1" frameWidth="439" frameHeight="683"/>
+	<SubTexture name="idle alternate confuso cetas0007" x="0" y="682" width="418" height="680" frameX="-1" frameY="-1" frameWidth="439" frameHeight="683"/>
+	<SubTexture name="idle alternate confuso cetas0008" x="0" y="1364" width="418" height="682" frameX="0" frameY="0" frameWidth="419" frameHeight="682"/>
+	<SubTexture name="idle alternate confuso cetas0009" x="0" y="1364" width="418" height="682" frameX="0" frameY="0" frameWidth="419" frameHeight="682"/>
+</TextureAtlas>

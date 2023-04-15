@@ -1,0 +1,15 @@
+{
+	"directory": "EncounterBG",
+	"defaultZoom": 0.75,
+	"isPixelStage": false,
+
+	"boyfriend": [1000, 270],
+	"girlfriend": [650, 265],
+	"opponent": [0, 270],
+	"hide_girlfriend": true,
+
+	"camera_boyfriend": [-40, 10],
+	"camera_opponent": [40, 10],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 1
+}

@@ -1,0 +1,606 @@
+{
+	"song": {
+		"events": [
+			[
+				60430.082180626,
+				[
+					[
+						"Change Character",
+						"bf",
+						"MarkSUS"
+					]
+				]
+			],
+			[
+				60430.082180626,
+				[
+					[
+						"Change Character",
+						"dad",
+						"alterFaces-alt"
+					]
+				]
+			],
+			[
+				61715.828610001,
+				[
+					[
+						"Play Animation",
+						"idle-alt",
+						"dad"
+					]
+				]
+			],
+			[
+				61715.828610001,
+				[
+					[
+						"Change Character",
+						"bf",
+						"Mark"
+					]
+				]
+			],
+			[
+				61722.5252059874,
+				[
+					[
+						"Play Animation",
+						"Ok",
+						"Bf"
+					]
+				]
+			],
+			[
+				63162.2933430479,
+				[
+					[
+						"Play Animation",
+						"idleAngry2",
+						"dad"
+					]
+				]
+			],
+			[
+				64528.3989242589,
+				[
+					[
+						"Play Animation",
+						"idleThanks",
+						"dad"
+					]
+				]
+			],
+			[
+				65251.6312907823,
+				[
+					[
+						"Play Animation",
+						"idleHappy",
+						"dad"
+					]
+				]
+			],
+			[
+				66215.9411128136,
+				[
+					[
+						"Change Character",
+						"dad",
+						"alterBruh"
+					]
+				]
+			],
+			[
+				117183.733164758,
+				[
+					[
+						"Change Character",
+						"bf",
+						"MarkCaling"
+					]
+				]
+			],
+			[
+				117190.429760744,
+				[
+					[
+						"Play Animation",
+						"calling start animation",
+						"bf"
+					]
+				]
+			],
+			[
+				117645.798287815,
+				[
+					[
+						"Play Animation",
+						"calling",
+						"bf"
+					]
+				]
+			],
+			[
+				118529.74895801,
+				[
+					[
+						"Play Animation",
+						"start calling",
+						"bf"
+					]
+				]
+			],
+			[
+				120136.931994729,
+				[
+					[
+						"Play Animation",
+						"calling",
+						"bf"
+					]
+				]
+			],
+			[
+				120458.368602072,
+				[
+					[
+						"Change Character",
+						"dad",
+						"alterFaces"
+					]
+				]
+			],
+			[
+				120463.391049062,
+				[
+					[
+						"Play Animation",
+						"idleAsk2",
+						"dad"
+					]
+				]
+			],
+			[
+				121342.319272268,
+				[
+					[
+						"Play Animation",
+						"idleAsk",
+						"dad"
+					]
+				]
+			],
+			[
+				121503.03757594,
+				[
+					[
+						"Play Animation",
+						"start calling",
+						"bf"
+					]
+				]
+			],
+			[
+				122045.461850832,
+				[
+					[
+						"Play Animation",
+						"calling",
+						"bf"
+					]
+				]
+			],
+			[
+				122065.551638791,
+				[
+					[
+						"Change Character",
+						"dad",
+						"alterBruh"
+					]
+				]
+			],
+			[
+				123913.812131018,
+				[
+					[
+						"Change Character",
+						"dad",
+						"alterFaces"
+					]
+				]
+			],
+			[
+				123917.160429011,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"dad"
+					]
+				]
+			],
+			[
+				126726.382445276,
+				[
+					[
+						"Play Animation",
+						"idle-alt",
+						"dad"
+					]
+				]
+			],
+			[
+				129217.51615219,
+				[
+					[
+						"Play Animation",
+						"idleSmile",
+						"dad"
+					]
+				]
+			],
+			[
+				134119.424414182,
+				[
+					[
+						"Play Animation",
+						"pipi",
+						"bf"
+					]
+				]
+			],
+			[
+				134280.142717854,
+				[
+					[
+						"Play Animation",
+						"pipi",
+						"bf"
+					]
+				]
+			],
+			[
+				134300.232505813,
+				[
+					[
+						"Play Animation",
+						"calling start animation2",
+						"bf"
+					]
+				]
+			],
+			[
+				134320.322293772,
+				[
+					[
+						"Play Animation",
+						"calling start animation2",
+						"bf"
+					]
+				]
+			],
+			[
+				134340.412081731,
+				[
+					[
+						"Play Animation",
+						"calling start animation2",
+						"bf"
+					]
+				]
+			],
+			[
+				134360.50186969,
+				[
+					[
+						"Play Animation",
+						"calling start animation2",
+						"bf"
+					]
+				]
+			],
+			[
+				134380.591657649,
+				[
+					[
+						"Play Animation",
+						"calling start animation2",
+						"bf"
+					]
+				]
+			],
+			[
+				134400.681445608,
+				[
+					[
+						"Play Animation",
+						"calling start animation2",
+						"bf"
+					]
+				]
+			],
+			[
+				134420.771233567,
+				[
+					[
+						"Play Animation",
+						"calling start animation2",
+						"bf"
+					]
+				]
+			],
+			[
+				134440.861021526,
+				[
+					[
+						"Play Animation",
+						"calling start animation2",
+						"bf"
+					]
+				]
+			],
+			[
+				134460.950809485,
+				[
+					[
+						"Play Animation",
+						"calling start animation2",
+						"bf"
+					]
+				]
+			],
+			[
+				134481.040597444,
+				[
+					[
+						"Play Animation",
+						"calling start animation2",
+						"bf"
+					]
+				]
+			],
+			[
+				134501.130385403,
+				[
+					[
+						"Play Animation",
+						"calling start animation2",
+						"bf"
+					]
+				]
+			],
+			[
+				134521.220173362,
+				[
+					[
+						"Play Animation",
+						"calling start animation2",
+						"bf"
+					]
+				]
+			],
+			[
+				134541.309961321,
+				[
+					[
+						"Play Animation",
+						"calling start animation2",
+						"bf"
+					]
+				]
+			],
+			[
+				134561.39974928,
+				[
+					[
+						"Play Animation",
+						"calling start animation2",
+						"bf"
+					]
+				]
+			],
+			[
+				134581.489537239,
+				[
+					[
+						"Play Animation",
+						"calling start animation2",
+						"bf"
+					]
+				]
+			],
+			[
+				134601.579325198,
+				[
+					[
+						"Play Animation",
+						"calling start animation2",
+						"bf"
+					]
+				]
+			],
+			[
+				134621.669113157,
+				[
+					[
+						"Play Animation",
+						"calling start animation2",
+						"bf"
+					]
+				]
+			],
+			[
+				134641.758901116,
+				[
+					[
+						"Play Animation",
+						"calling start animation2",
+						"bf"
+					]
+				]
+			],
+			[
+				134661.848689075,
+				[
+					[
+						"Play Animation",
+						"calling start animation2",
+						"bf"
+					]
+				]
+			],
+			[
+				134681.938477034,
+				[
+					[
+						"Play Animation",
+						"calling start animation2",
+						"bf"
+					]
+				]
+			],
+			[
+				134835.960184719,
+				[
+					[
+						"Play Animation",
+						"idle-static",
+						"bf"
+					]
+				]
+			],
+			[
+				134842.656780705,
+				[
+					[
+						"Play Animation",
+						"idleWhat",
+						"dad"
+					]
+				]
+			],
+			[
+				138212.718710825,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"bf"
+					]
+				]
+			],
+			[
+				138217.741157815,
+				[
+					[
+						"Change Character",
+						"dad",
+						"alterConfuse"
+					]
+				]
+			],
+			[
+				169075.655462815,
+				[
+					[
+						"Change Character",
+						"dad",
+						"alterMan"
+					]
+				]
+			],
+			[
+				171647.148321566,
+				[
+					[
+						"Change Character",
+						"dad",
+						"alterConfuse"
+					]
+				]
+			],
+			[
+				210219.541202816,
+				[
+					[
+						"Change Character",
+						"dad",
+						"alterBruh"
+					],
+					[
+						"Play Animation",
+						"idle-alt",
+						"bf"
+					]
+				]
+			],
+			[
+				216085.75928684,
+				[
+					[
+						"Change Character",
+						"dad",
+						"alterBruh"
+					]
+				]
+			],
+			[
+				220907.308396996,
+				[
+					[
+						"Play Animation",
+						"idle-alt",
+						"bf"
+					]
+				]
+			],
+			[
+				230952.202376488,
+				[
+					[
+						"Play Animation",
+						"idle-alt",
+						"bf"
+					]
+				]
+			],
+			[
+				246541.877832661,
+				[
+					[
+						"Play Animation",
+						"idle-alt",
+						"bf"
+					]
+				]
+			],
+			[
+				251443.786094653,
+				[
+					[
+						"Change Character",
+						"dad",
+						"alterMan"
+					]
+				]
+			],
+			[
+				261649.398377817,
+				[
+					[
+						"Change Character",
+						"dad",
+						"alterBruh"
+					],
+					[
+						"Change Character",
+						"bf",
+						"Markcaling"
+					]
+				]
+			]
+		]
+	}
+}

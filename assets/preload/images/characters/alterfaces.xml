@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="alterfaces.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="463" height="688"/>
+	<SubTexture name="idle0001" x="0" y="0" width="463" height="688"/>
+	<SubTexture name="idle0002" x="463" y="0" width="463" height="688"/>
+	<SubTexture name="idle0003" x="463" y="0" width="463" height="688"/>
+	<SubTexture name="idle-alt0000" x="926" y="0" width="463" height="688" frameX="0" frameY="0" frameWidth="464" frameHeight="688"/>
+	<SubTexture name="idle-alt0001" x="926" y="0" width="463" height="688" frameX="0" frameY="0" frameWidth="464" frameHeight="688"/>
+	<SubTexture name="idle-alt0002" x="1389" y="0" width="464" height="687" frameX="0" frameY="0" frameWidth="464" frameHeight="688"/>
+	<SubTexture name="idle-alt0003" x="1389" y="0" width="464" height="687" frameX="0" frameY="0" frameWidth="464" frameHeight="688"/>
+	<SubTexture name="idleAsk0000" x="1853" y="0" width="463" height="688"/>
+	<SubTexture name="idleAsk0001" x="1853" y="0" width="463" height="688"/>
+	<SubTexture name="idleAsk0002" x="2316" y="0" width="463" height="688"/>
+	<SubTexture name="idleAsk0003" x="2316" y="0" width="463" height="688"/>
+	<SubTexture name="idleAskMounthOpen0000" x="2779" y="0" width="463" height="688"/>
+	<SubTexture name="idleAskMounthOpen0001" x="2779" y="0" width="463" height="688"/>
+	<SubTexture name="idleAskMounthOpen0002" x="3242" y="0" width="463" height="688"/>
+	<SubTexture name="idleAskMounthOpen0003" x="3242" y="0" width="463" height="688"/>
+	<SubTexture name="idleLOL0000" x="0" y="688" width="463" height="688"/>
+	<SubTexture name="idleLOL0001" x="0" y="688" width="463" height="688"/>
+	<SubTexture name="idleLOL0002" x="463" y="688" width="462" height="688" frameX="0" frameY="0" frameWidth="463" frameHeight="688"/>
+	<SubTexture name="idleLOL0003" x="463" y="688" width="462" height="688" frameX="0" frameY="0" frameWidth="463" frameHeight="688"/>
+	<SubTexture name="idleWhat0000" x="925" y="688" width="463" height="688"/>
+	<SubTexture name="idleWhat0001" x="925" y="688" width="463" height="688"/>
+	<SubTexture name="idleWhat0002" x="1388" y="688" width="463" height="688"/>
+	<SubTexture name="idleWhat0003" x="1388" y="688" width="463" height="688"/>
+</TextureAtlas>

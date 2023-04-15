@@ -1,0 +1,169 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				41,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				32,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				4,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-20,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				200,
+				-1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "calling",
+			"indices": [],
+			"name": "calling"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				2
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-6
+			],
+			"anim": "calling start animation",
+			"fps": 24,
+			"name": "animation start",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-static",
+			"indices": [],
+			"name": "dile static"
+		},
+		{
+			"offsets": [
+				0,
+				3
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "idle-alt"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				5,
+				-3
+			],
+			"anim": "calling start animation2",
+			"fps": 24,
+			"name": "animation start png",
+			"indices": []
+		},
+		{
+			"offsets": [
+				201,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "start calling",
+			"indices": [],
+			"name": "start calling"
+		},
+		{
+			"offsets": [
+				59,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pipi",
+			"indices": [],
+			"name": "pipi"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/MarkCelular",
+	"position": [
+		0,
+		160
+	],
+	"healthicon": "monkey",
+	"flip_x": true,
+	"healthbar_colors": [
+		231,
+		231,
+		231
+	],
+	"camera_position": [
+		420,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}
